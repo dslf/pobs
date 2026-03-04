@@ -1,0 +1,1138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PathOfBuilding>
+	<Build mainSocketGroup="1" className="Ranger" bandit="None" targetVersion="3_0" ascendClassName="Pathfinder" pantheonMinorGod="Abberath" characterLevelAutoMode="false" viewMode="TREE" level="97" pantheonMajorGod="Lunaris">
+		<PlayerStat stat="AverageHit" value="0"/>
+		<PlayerStat stat="AverageBurstDamage" value="0"/>
+		<PlayerStat stat="Speed" value="6.0606060606061"/>
+		<PlayerStat stat="CritMultiplier" value="1"/>
+		<PlayerStat stat="HitChance" value="100"/>
+		<PlayerStat stat="TotalDPS" value="0"/>
+		<PlayerStat stat="TotalDot" value="0"/>
+		<PlayerStat stat="TotalDotDPS" value="0"/>
+		<PlayerStat stat="CullingDPS" value="0"/>
+		<PlayerStat stat="ReservationDPS" value="0"/>
+		<PlayerStat stat="CombinedAvg" value="0"/>
+		<PlayerStat stat="ManaCost" value="0"/>
+		<PlayerStat stat="ManaPercentCost" value="0"/>
+		<PlayerStat stat="ManaPerSecondCost" value="0"/>
+		<PlayerStat stat="ManaPercentPerSecondCost" value="0"/>
+		<PlayerStat stat="LifeCost" value="82"/>
+		<PlayerStat stat="LifePercentCost" value="0"/>
+		<PlayerStat stat="LifePerSecondCost" value="496.9696969697"/>
+		<PlayerStat stat="LifePercentPerSecondCost" value="0"/>
+		<PlayerStat stat="ESCost" value="0"/>
+		<PlayerStat stat="ESPerSecondCost" value="0"/>
+		<PlayerStat stat="ESPercentPerSecondCost" value="0"/>
+		<PlayerStat stat="RageCost" value="0"/>
+		<PlayerStat stat="SoulCost" value="0"/>
+		<PlayerStat stat="Str" value="245"/>
+		<PlayerStat stat="ReqStr" value="123"/>
+		<PlayerStat stat="Dex" value="162"/>
+		<PlayerStat stat="ReqDex" value="159"/>
+		<PlayerStat stat="Int" value="159"/>
+		<PlayerStat stat="ReqInt" value="155"/>
+		<PlayerStat stat="Devotion" value="0"/>
+		<PlayerStat stat="TotalEHP" value="73932.998718146"/>
+		<PlayerStat stat="PhysicalMaximumHitTaken" value="20438"/>
+		<PlayerStat stat="LightningMaximumHitTaken" value="91736"/>
+		<PlayerStat stat="FireMaximumHitTaken" value="20438"/>
+		<PlayerStat stat="ColdMaximumHitTaken" value="91736"/>
+		<PlayerStat stat="ChaosMaximumHitTaken" value="47722"/>
+		<PlayerStat stat="Life" value="7626"/>
+		<PlayerStat stat="Spec:LifeInc" value="171"/>
+		<PlayerStat stat="LifeUnreserved" value="7626"/>
+		<PlayerStat stat="LifeRecoverable" value="7626"/>
+		<PlayerStat stat="LifeUnreservedPercent" value="100"/>
+		<PlayerStat stat="LifeRegenRecovery" value="544.8"/>
+		<PlayerStat stat="LifeLeechGainRate" value="0"/>
+		<PlayerStat stat="Mana" value="0"/>
+		<PlayerStat stat="Spec:ManaInc" value="0"/>
+		<PlayerStat stat="ManaRegenRecovery" value="0"/>
+		<PlayerStat stat="ManaLeechGainRate" value="0"/>
+		<PlayerStat stat="EnergyShield" value="490"/>
+		<PlayerStat stat="EnergyShieldRecoveryCap" value="490"/>
+		<PlayerStat stat="Spec:EnergyShieldInc" value="12"/>
+		<PlayerStat stat="EnergyShieldRegenRecovery" value="-24.5"/>
+		<PlayerStat stat="EnergyShieldLeechGainRate" value="0"/>
+		<PlayerStat stat="Ward" value="0"/>
+		<PlayerStat stat="RageRegenRecovery" value="0"/>
+		<PlayerStat stat="TotalBuildDegen" value="246.7264"/>
+		<PlayerStat stat="TotalNetRegen" value="273.5736"/>
+		<PlayerStat stat="NetLifeRegen" value="298.0736"/>
+		<PlayerStat stat="NetManaRegen" value="0"/>
+		<PlayerStat stat="NetEnergyShieldRegen" value="-24.5"/>
+		<PlayerStat stat="Evasion" value="0"/>
+		<PlayerStat stat="Spec:EvasionInc" value="49"/>
+		<PlayerStat stat="MeleeEvadeChance" value="0"/>
+		<PlayerStat stat="ProjectileEvadeChance" value="0"/>
+		<PlayerStat stat="Armour" value="8528"/>
+		<PlayerStat stat="Spec:ArmourInc" value="98"/>
+		<PlayerStat stat="PhysicalDamageReduction" value="50"/>
+		<PlayerStat stat="EffectiveBlockChance" value="20"/>
+		<PlayerStat stat="EffectiveSpellBlockChance" value="40"/>
+		<PlayerStat stat="AttackDodgeChance" value="0"/>
+		<PlayerStat stat="SpellDodgeChance" value="0"/>
+		<PlayerStat stat="EffectiveSpellSuppressionChance" value="94.71"/>
+		<PlayerStat stat="FireResist" value="-0"/>
+		<PlayerStat stat="FireResistOverCap" value="0"/>
+		<PlayerStat stat="ColdResist" value="84"/>
+		<PlayerStat stat="ColdResistOverCap" value="3"/>
+		<PlayerStat stat="LightningResist" value="84"/>
+		<PlayerStat stat="LightningResistOverCap" value="0"/>
+		<PlayerStat stat="ChaosResist" value="75"/>
+		<PlayerStat stat="ChaosResistOverCap" value="24"/>
+		<PlayerStat stat="EffectiveMovementSpeedMod" value="2.11"/>
+		<PlayerStat stat="FullDPS" value="24373245.731421"/>
+		<PlayerStat stat="FullDotDPS" value="11251401.718021"/>
+		<FullDPSSkill stat="Full Poison DPS" value="11223881.184765" skillPart="" source=""/>
+		<FullDPSSkill stat="8x Creeping Frost" value="4712448.8121212" skillPart="" source="Cast when Damage Taken"/>
+		<FullDPSSkill stat="9x Ice Spear" value="3920951.9590909" skillPart="First Form, 1 Projectile" source="Cast when Damage Taken"/>
+		<FullDPSSkill stat="20x Blazing Salvo" value="3283661.6666667" skillPart="1 Projectile" source="Cast when Damage Taken"/>
+		<FullDPSSkill stat="Fireball" value="1007362.7121212" skillPart="Projectile" source="Cast when Damage Taken"/>
+		<FullDPSSkill stat="6x Cremation of the Volcano" value="197418.8634" skillPart="" source="Cast when Damage Taken"/>
+		<FullDPSSkill stat="Full DoT DPS" value="27520.533255987" skillPart="" source=""/>
+		<PlayerStat stat="PowerCharges" value="0"/>
+		<PlayerStat stat="PowerChargesMax" value="3"/>
+		<PlayerStat stat="FrenzyCharges" value="0"/>
+		<PlayerStat stat="FrenzyChargesMax" value="4"/>
+		<PlayerStat stat="EnduranceCharges" value="6"/>
+		<PlayerStat stat="EnduranceChargesMax" value="6"/>
+		<TimelessData devotionVariant1="1" socketFilterDistance="0" searchListFallback="" searchList="" devotionVariant2="1"/>
+	</Build>
+	<Tree activeSpec="1">
+		<Spec classId="2" nodes="23471,5237,22994,40132,487,20987,23027,31928,6289,63282,48717,34171,32802,62588,24720,24914,34400,52904,25011,33287,65210,23066,61262,32640,48287,22217,9206,51101,29353,63843,55332,53114,29937,14156,26270,6712,63723,53118,11859,4656,48109,26712,64111,36949,41415,64210,37884,4833,46882,44202,32241,65308,53793,8544,64709,31958,7444,5197,5743,60472,20730,61306,16236,37326,54127,40813,55190,42760,65616,7960,14930,18103,6363,65632,19858,60942,22088,64221,30380,50459,5233,10661,61305,65642,65634,34678,60735,62429,31471,19069,31961,26725,24083,39821,62017,37504,44316,8638,65618,46393,58854,65296,52502,25766,58218,16544,65626,3042,36678,444,3644,6383,38348,59928,64406,31585,54629,11730,57279,1325,59866,38579,55676,47767,41866,26196,35288,32662,64587,39678,3469" masteryEffects="{38579,64264},{48717,59936},{44316,38454},{25011,47642},{41415,21468},{32241,31822},{3042,64381},{20730,45317},{62588,34242},{64406,46180}" treeVersion="3_27" ascendClassId="3" secondaryAscendClassId="9">
+			<URL>
+				https://www.pathofexile.com/passive-skill-tree/AAAABgIneluvFHVZ0pzEAedR-1nzfLgYkfcyvk2Fe4Ai9HxgkGFShmDOqGGzggf-uloa705_gLyfVskj9sedcqn5Y9gkz3p08TdMZp4aOPjrz34uUxIwu-1oWJBVocf60pP8EuG3IqyqffH_HNIhIWD8xR0UFE0Wb-w4UPrvej9skc7Tb59t15anCB8YOlJGtxjbTZLuDlZI-t12rBRxKaXveYd27T_z3XrvSn182WhlXhObjfJBkoCtHCG-tTnl5v8QzRZkpuNqQKAL4o9GAbwOPBjvlczqGPuWe2HVZS3S378FLenalrPZfLqXo4pmVInYf5b8S5r-DY0GAFAAYABqAGIAUgBaCuogvk2FwvR8uhphs1Pcocd8Tn3xsQVQ-pY2rRz7fQvitGT7lvsIlrM=
+			</URL>
+			<Sockets>
+				<Socket nodeId="22994" itemId="7"/>
+				<Socket nodeId="54127" itemId="5"/>
+				<Socket nodeId="55190" itemId="1"/>
+				<Socket nodeId="26725" itemId="2"/>
+				<Socket nodeId="46393" itemId="6"/>
+				<Socket nodeId="7960" itemId="10"/>
+				<Socket nodeId="26196" itemId="9"/>
+				<Socket nodeId="61305" itemId="3"/>
+				<Socket nodeId="60735" itemId="4"/>
+				<Socket nodeId="46882" itemId="8"/>
+			</Sockets>
+			<Overrides>
+				<Override nodeId="26270" dn="Tattoo of the Valako Stormrider" activeEffectImage="Art/2DArt/UIImages/InGame/AncestralTrial/PassiveTreeTattoos/ValakoTribePassiveBG.png" icon="Art/2DArt/SkillIcons/passives/LightningResistNode.png">
+					+6% to Lightning Resistance
+				</Override>
+				<Override nodeId="9393" dn="Runegraft of the River" activeEffectImage="Art/2DArt/UIImages/InGame/Village/RuneCraftingPassiveBG.png" icon="Art/2DArt/SkillIcons/passives/AtlasTrees/RuneGraftingIcon5.png">
+					20% chance on reaching Low Life to recover to Full Life
+					Limited to 1 Runegraft of the River
+				</Override>
+				<Override nodeId="63723" dn="Tattoo of the Ngamahu Firewalker" activeEffectImage="Art/2DArt/UIImages/InGame/AncestralTrial/PassiveTreeTattoos/NgamahuTribePassiveBG.png" icon="Art/2DArt/SkillIcons/passives/FireResistNode.png">
+					+6% to Fire Resistance
+				</Override>
+				<Override nodeId="5233" dn="Tattoo of the Ngamahu Firewalker" activeEffectImage="Art/2DArt/UIImages/InGame/AncestralTrial/PassiveTreeTattoos/NgamahuTribePassiveBG.png" icon="Art/2DArt/SkillIcons/passives/FireResistNode.png">
+					+6% to Fire Resistance
+				</Override>
+				<Override nodeId="857" dn="Runegraft of the Witchmark" activeEffectImage="Art/2DArt/UIImages/InGame/Village/RuneCraftingPassiveBG.png" icon="Art/2DArt/SkillIcons/passives/AtlasTrees/RuneGraftingIcon24.png">
+					Spells deal added Chaos Damage equal to 2% of your maximum Life
+					Spells Cost +8% of Life
+					Limited to 1 Runegraft of the Witchmark
+				</Override>
+				<Override nodeId="16544" dn="Tattoo of the Arohongui Moonwarden" activeEffectImage="Art/2DArt/UIImages/InGame/AncestralTrial/PassiveTreeTattoos/ArohonguiTribePassiveBG.png" icon="Art/2DArt/SkillIcons/passives/ColdResistNode.png">
+					+6% to Cold Resistance
+				</Override>
+				<Override nodeId="64210" dn="Tattoo of the Valako Stormrider" activeEffectImage="Art/2DArt/UIImages/InGame/AncestralTrial/PassiveTreeTattoos/ValakoTribePassiveBG.png" icon="Art/2DArt/SkillIcons/passives/LightningResistNode.png">
+					+6% to Lightning Resistance
+				</Override>
+				<Override nodeId="18103" dn="Tattoo of the Arohongui Moonwarden" activeEffectImage="Art/2DArt/UIImages/InGame/AncestralTrial/PassiveTreeTattoos/ArohonguiTribePassiveBG.png" icon="Art/2DArt/SkillIcons/passives/ColdResistNode.png">
+					+6% to Cold Resistance
+				</Override>
+				<Override nodeId="65528" dn="Runegraft of Treachery" activeEffectImage="Art/2DArt/UIImages/InGame/Village/RuneCraftingPassiveBG.png" icon="Art/2DArt/SkillIcons/passives/AtlasTrees/RuneGraftingIcon20.png">
+					15% increased Reservation Efficiency of Skills
+					Auras from your Skills which affect Allies also affect Enemies
+					Limited to 1 Runegraft of Treachery
+				</Override>
+				<Override nodeId="8544" dn="Tattoo of the Arohongui Moonwarden" activeEffectImage="Art/2DArt/UIImages/InGame/AncestralTrial/PassiveTreeTattoos/ArohonguiTribePassiveBG.png" icon="Art/2DArt/SkillIcons/passives/ColdResistNode.png">
+					+6% to Cold Resistance
+				</Override>
+				<Override nodeId="62429" dn="Tattoo of the Ngamahu Firewalker" activeEffectImage="Art/2DArt/UIImages/InGame/AncestralTrial/PassiveTreeTattoos/NgamahuTribePassiveBG.png" icon="Art/2DArt/SkillIcons/passives/FireResistNode.png">
+					+6% to Fire Resistance
+				</Override>
+				<Override nodeId="48717" dn="Runegraft of Time" activeEffectImage="Art/2DArt/UIImages/InGame/Village/RuneCraftingPassiveBG.png" icon="Art/2DArt/SkillIcons/passives/AtlasTrees/RuneGraftingIcon19.png">
+					20% chance for Skills to not consume a Cooldown on use
+					Limited to 1 Runegraft of Time
+				</Override>
+				<Override nodeId="64406" dn="Runegraft of the Warp" activeEffectImage="Art/2DArt/UIImages/InGame/Village/RuneCraftingPassiveBG.png" icon="Art/2DArt/SkillIcons/passives/AtlasTrees/RuneGraftingIcon11.png">
+					Buffs on you expire 30% slower
+					Debuffs on you expire 30% faster
+					Limited to 1 Runegraft of the Warp
+				</Override>
+			</Overrides>
+		</Spec>
+	</Tree>
+	<Config activeConfigSet="1">
+		<ConfigSet id="1" title="Default">
+			<Input string="# Graft CDR from 5 green skills
+20% increased cooldown recovery
+
+# Runegraft of Time 
+20% more damage" name="customMods"/>
+			<Input boolean="true" name="conditionFullLife"/>
+			<Input boolean="true" name="conditionUsingFlask"/>
+			<Input boolean="true" name="conditionEnemyOnSappedGround"/>
+			<Input boolean="true" name="conditionEnemyShocked"/>
+			<Input string="Lunaris" name="pantheonMajorGod"/>
+			<Input string="Abberath" name="pantheonMinorGod"/>
+			<Input boolean="true" name="conditionBeenHitRecently"/>
+			<Input boolean="true" name="conditionLeechingLife"/>
+			<Input boolean="true" name="useEnduranceCharges"/>
+			<Input boolean="true" name="buffAlchemistsGenius"/>
+			<Input number="100" name="multiplierPoisonOnSelf"/>
+			<Input number="15" name="multiplierWitheredStackCount"/>
+			<Input boolean="true" name="conditionEnemyHindered"/>
+			<Input boolean="true" name="conditionCritRecently"/>
+			<Input number="1" name="conditionStationary"/>
+			<Input boolean="true" name="conditionEnemyPoisoned"/>
+			<Input number="21" name="conditionShockEffect"/>
+			<Input string="INF" name="plagueBearerState"/>
+			<Placeholder number="1" name="ShockStacks"/>
+			<Placeholder number="2241" name="enemyFireDamage"/>
+			<Placeholder number="896" name="enemyChaosDamage"/>
+			<Placeholder number="15" name="meleeDistance"/>
+			<Placeholder number="5" name="configSpectralTigerCount"/>
+			<Placeholder number="3" name="enemyLightningPen"/>
+			<Placeholder number="3" name="enemyColdPen"/>
+			<Placeholder number="3" name="enemyFirePen"/>
+			<Placeholder number="61989" name="enemyArmour"/>
+			<Placeholder number="10143" name="enemyEvasion"/>
+			<Placeholder number="70" name="enemyDamageRollRange"/>
+			<Placeholder number="1" name="ScorchStacks"/>
+			<Placeholder number="50" name="enemyFireResist"/>
+			<Placeholder number="2241" name="enemyColdDamage"/>
+			<Placeholder number="50" name="enemyLightningResist"/>
+			<Placeholder number="84" name="enemyLevel"/>
+			<Placeholder number="1" name="sigilOfPowerStages"/>
+			<Placeholder number="40" name="projectileDistance"/>
+			<Placeholder number="700" name="enemySpeed"/>
+			<Placeholder number="5" name="enemyCritChance"/>
+			<Placeholder number="30" name="enemyCritDamage"/>
+			<Placeholder number="30" name="enemyChaosResist"/>
+			<Placeholder number="50" name="enemyColdResist"/>
+			<Placeholder number="15" name="multiplierWitheredStackCountSelf"/>
+			<Placeholder number="2241" name="enemyPhysicalDamage"/>
+			<Placeholder number="2241" name="enemyLightningDamage"/>
+		</ConfigSet>
+	</Config>
+	<Skills defaultGemLevel="normalMaximum" activeSkillSet="1" showAltQualityGems="false" sortGemsByDPS="true" sortGemsByDPSField="CombinedDPS" showSupportGemTypes="ALL" defaultGemQuality="0">
+		<SkillSet id="1">
+			<Skill includeInFullDPS="false" label="" mainActiveSkillCalcs="1" enabled="true" mainActiveSkill="1" slot="Helmet">
+				<Gem quality="20" count="1" enableGlobal2="false" enabled="true" enableGlobal1="true" gemId="Metadata/Items/Gems/SkillGemProjectileWeakness" level="20" nameSpec="Sniper&apos;s Mark" skillId="SnipersMark" variantId="SnipersMark" qualityId="Default"/>
+				<Gem quality="20" count="1" enableGlobal2="false" enabled="true" enableGlobal1="true" gemId="Metadata/Items/Gems/SupportGemCastOnDamageTaken" level="20" nameSpec="Cast when Damage Taken" skillId="SupportCastWhenDamageTaken" variantId="SupportCastWhenDamageTaken" qualityId="Default"/>
+				<Gem quality="20" count="1" enableGlobal2="false" enabled="true" enableGlobal1="true" gemId="Metadata/Items/Gems/SkillGemVulnerability" level="20" nameSpec="Despair" skillId="Despair" variantId="Despair" qualityId="Default"/>
+				<Gem quality="20" count="1" enableGlobal2="false" enabled="true" enableGlobal1="true" gemId="Metadata/Items/Gems/SkillGemLightningWarp" level="20" nameSpec="Lightning Warp" skillId="LightningWarp" variantId="LightningWarp" qualityId="Default"/>
+			</Skill>
+			<Skill includeInFullDPS="false" label="" mainActiveSkillCalcs="1" enabled="true" mainActiveSkill="1" slot="Weapon 1">
+				<Gem quality="20" count="1" enableGlobal2="false" enabled="true" enableGlobal1="true" gemId="Metadata/Items/Gems/SkillGemDash" level="21" nameSpec="Dash" skillId="Dash" variantId="Dash" qualityId="Default"/>
+				<Gem quality="20" count="1" enableGlobal2="false" enabled="true" enableGlobal1="true" gemId="Metadata/Items/Gems/SkillGemPlagueBearer" level="20" nameSpec="Plague Bearer" skillId="PlagueBearer" variantId="PlagueBearer" qualityId="Default"/>
+			</Skill>
+			<Skill includeInFullDPS="false" label="" mainActiveSkillCalcs="1" enabled="true" mainActiveSkill="1" slot="Weapon 1">
+				<Gem quality="20" count="1" enableGlobal2="false" enabled="true" enableGlobal1="true" gemId="Metadata/Items/Gems/SkillGemPortal" level="1" nameSpec="Portal" skillId="Portal" variantId="Portal" qualityId="Default"/>
+			</Skill>
+			<Skill includeInFullDPS="true" label="" mainActiveSkillCalcs="1" enabled="true" mainActiveSkill="1" slot="Body Armour">
+				<Gem quality="20" count="8" enableGlobal2="false" enabled="true" enableGlobal1="true" gemId="Metadata/Items/Gems/SkillGemArcticBreath" level="20" nameSpec="Creeping Frost" skillId="CreepingFrost" variantId="CreepingFrost" qualityId="Default"/>
+				<Gem quality="20" count="9" enableGlobal2="false" enabled="true" enableGlobal1="true" skillPart="1" gemId="Metadata/Items/Gems/SkillGemIceSpear" level="20" nameSpec="Ice Spear" skillId="IceSpear" variantId="IceSpear" qualityId="Default"/>
+				<Gem quality="20" count="1" enableGlobal2="false" enabled="true" enableGlobal1="true" gemId="Metadata/Items/Gems/SupportGemColdToFire" level="21" nameSpec="Cold to Fire" skillId="SupportColdToFire" variantId="SupportColdtoFire" qualityId="Default"/>
+				<Gem quality="16" count="1" enableGlobal2="false" enabled="true" enableGlobal1="true" gemId="Metadata/Items/Gems/SupportGemElementalFocusPlus" level="5" nameSpec="Awakened Elemental Focus" skillId="SupportAwakenedElementalFocus" variantId="SupportAwakenedElementalFocus" qualityId="Default"/>
+				<Gem quality="10" count="1" enableGlobal2="false" enabled="true" enableGlobal1="true" gemId="Metadata/Items/Gems/SupportGemGreaterMultipleProjectilesPlus" skillMinionSkill="1" skillMinionSkillCalcs="1" skillMinionItemSet="1" level="5" skillMinion="AnimatedWeapon" nameSpec="Awakened Greater Multiple Projectiles" skillId="SupportAwakenedGreaterMultipleProjectiles" variantId="SupportAwakenedGreaterMultipleProjectiles" qualityId="Default"/>
+				<Gem quality="20" count="1" enableGlobal2="false" enabled="true" enableGlobal1="true" gemId="Metadata/Items/Gems/SupportGemCastOnDamageTaken" level="20" nameSpec="Cast when Damage Taken" skillId="SupportCastWhenDamageTaken" variantId="SupportCastWhenDamageTaken" qualityId="Default"/>
+			</Skill>
+			<Skill includeInFullDPS="true" label="" mainActiveSkillCalcs="1" enabled="true" mainActiveSkill="1" slot="Boots">
+				<Gem quality="20" count="20" enableGlobal2="false" enabled="true" enableGlobal1="true" skillPart="1" gemId="Metadata/Items/Gems/SkillGemBlazingSalvo" level="20" nameSpec="Blazing Salvo" skillId="BlazingSalvo" variantId="BlazingSalvo" qualityId="Default"/>
+				<Gem quality="20" count="1" enableGlobal2="false" enabled="true" enableGlobal1="true" gemId="Metadata/Items/Gems/SupportGemCastOnDamageTaken" level="20" nameSpec="Cast when Damage Taken" skillId="SupportCastWhenDamageTaken" variantId="SupportCastWhenDamageTaken" qualityId="Default"/>
+				<Gem quality="16" count="1" enableGlobal2="false" enabled="true" enableGlobal1="true" gemId="Metadata/Items/Gems/SupportGemElementalFocusPlus" level="5" nameSpec="Awakened Elemental Focus" skillId="SupportAwakenedElementalFocus" variantId="SupportAwakenedElementalFocus" qualityId="Default"/>
+				<Gem quality="20" count="1" enableGlobal2="false" enabled="true" enableGlobal1="true" gemId="Metadata/Items/Gems/SupportGemReturningProjectiles" level="20" nameSpec="Returning Projectiles" skillId="SupportReturningProjectiles" variantId="SupportReturningProjectiles" qualityId="Default"/>
+			</Skill>
+			<Skill includeInFullDPS="true" label="" mainActiveSkillCalcs="1" enabled="true" mainActiveSkill="1" slot="Gloves">
+				<Gem quality="20" count="6" enableGlobal2="false" enabled="true" enableGlobal1="true" gemId="Metadata/Items/Gems/SkillGemCorpseEruption" level="20" nameSpec="Cremation of the Volcano" skillId="CremationAltY" variantId="CremationAltY" qualityId="Default"/>
+				<Gem quality="20" count="1" enableGlobal2="false" enabled="true" enableGlobal1="true" gemId="Metadata/Items/Gems/SupportGemCastOnDamageTaken" level="20" nameSpec="Cast when Damage Taken" skillId="SupportCastWhenDamageTaken" variantId="SupportCastWhenDamageTaken" qualityId="Default"/>
+				<Gem quality="13" count="1" enableGlobal2="false" enabled="true" enableGlobal1="true" gemId="Metadata/Items/Gems/SupportGemElementalFocusPlus" level="5" nameSpec="Awakened Elemental Focus" skillId="SupportAwakenedElementalFocus" variantId="SupportAwakenedElementalFocus" qualityId="Default"/>
+				<Gem quality="23" count="1" enableGlobal2="false" enabled="true" enableGlobal1="true" skillPart="1" gemId="Metadata/Items/Gems/SkillGemFireball" level="20" nameSpec="Fireball" skillId="Fireball" variantId="Fireball" qualityId="Default"/>
+			</Skill>
+			<Skill includeInFullDPS="false" label="" mainActiveSkillCalcs="1" enabled="true" mainActiveSkill="1" slot="Weapon 2">
+				<Gem quality="0" count="1" enableGlobal2="false" enabled="true" enableGlobal1="true" gemId="Metadata/Items/Gems/SkillGemVitality" level="21" nameSpec="Vitality" skillId="Vitality" variantId="Vitality" qualityId="Default"/>
+				<Gem quality="20" count="1" enableGlobal2="false" enabled="true" enableGlobal1="true" gemId="Metadata/Items/Gems/SupportGemEternalBlessing" level="20" nameSpec="Eternal Blessing" skillId="SupportEternalBlessing" variantId="SupportEternalBlessing" qualityId="Default"/>
+			</Skill>
+			<Skill includeInFullDPS="false" label="" mainActiveSkillCalcs="1" enabled="true" mainActiveSkill="1" slot="Weapon 2">
+				<Gem quality="20" count="1" enableGlobal2="false" enabled="true" enableGlobal1="true" gemId="Metadata/Items/Gems/SkillGemBloodRage" level="21" nameSpec="Blood Rage" skillId="BloodRage" variantId="BloodRage" qualityId="Default"/>
+			</Skill>
+			<Skill includeInFullDPS="false" label="" mainActiveSkillCalcs="1" enabled="true" mainActiveSkill="1" slot="Helmet" source="Item:12:Eber&apos;s Unification, Hubris Circlet">
+				<Gem quality="0" count="1" enableGlobal2="false" enabled="true" enableGlobal1="true" level="10" nameSpec="Void Gaze" skillId="VoidGaze" qualityId="Default"/>
+			</Skill>
+			<Skill includeInFullDPS="false" label="On Kill Monster Explosion" mainActiveSkillCalcs="1" enabled="true" mainActiveSkill="1" source="Explode">
+				<Gem quality="0" count="nil" enableGlobal2="nil" enabled="true" enableGlobal1="nil" skillPart="1" level="1" nameSpec="" skillId="EnemyExplode"/>
+			</Skill>
+		</SkillSet>
+	</Skills>
+	<Import lastCharacterHash="30f2d88aa53ee6cc4fd1ded4c4c34701b28beec2" lastRealm="PC" lastAccountHash="322b1870f4ce6deb29ffd0e04fee04df38bb2bdb" exportParty="false"/>
+	<Items activeItemSet="1" useSecondWeaponSet="false" showStatDifferences="true">
+		<Item id="1">
+			Rarity: UNIQUE
+Glorious Vanity
+Timeless Jewel
+Unique ID: c03816658b20fbdf38a9ad5a249a0b98db6f78297f306b8a20d46bb2c45c4d57
+Item Level: 80
+Radius: Large
+Implicits: 0
+Bathed in the blood of 818 sacrificed in the name of Ahuana
+Passives in radius are Conquered by the Vaal
+Historic
+			<ModRange id="1" range="0.5"/>
+			<ModRange id="2" range="0.5"/>
+			<ModRange id="3" range="0.5"/>
+		</Item>
+		<Item id="2">
+			Rarity: UNIQUE
+Foulborn The Red Nightmare
+Crimson Jewel
+Unique ID: 3ed6d64af4c4eaa2583e46a946dc594ba34679eef2053f9b9a9abd6955ce9344
+Item Level: 83
+Radius: Large
+Limited to: 1
+Implicits: 0
+Gain 10% of Fire Damage as Extra Chaos Damage
+{mutated}Passives granting Fire Resistance or all Elemental Resistances in Radius
+also grant Fire Damage Converted to Chaos Damage at 100% of its value
+			<ModRange id="1" range="0.5"/>
+			<ModRange id="2" range="0.5"/>
+		</Item>
+		<Item id="3">
+			Rarity: UNIQUE
+Forbidden Flesh
+Cobalt Jewel
+Unique ID: 6947a3f763bc9e0e345400951837a9e57cca402b555c84cc0db67c8427fa7aa9
+Item Level: 86
+Limited to: 1
+Requires Class Ranger
+Implicits: 0
+Allocates Endless Munitions if you have the matching modifier on Forbidden Flame
+Corrupted
+			<ModRange id="1" range="0.5"/>
+		</Item>
+		<Item id="4">
+			Rarity: UNIQUE
+Thread of Hope
+Crimson Jewel
+Unique ID: 60c11d4f153b4a3e74c58adb7f00e9cb60af19794f45513ea4b55cf89579471e
+Item Level: 85
+Radius: Variable
+Implicits: 0
+Only affects Passives in Very Large Ring
+Passive Skills in Radius can be Allocated without being connected to your tree
+-13% to all Elemental Resistances
+Passage
+			<ModRange id="1" range="0.5"/>
+			<ModRange id="2" range="0.5"/>
+			<ModRange id="3" range="0.5"/>
+		</Item>
+		<Item id="5">
+			Rarity: UNIQUE
+Stormshroud
+Viridian Jewel
+Unique ID: 59afd155e2a41d6d136db231d9fc309bfb21eaff2815627797b7faa5996cf6a2
+Item Level: 86
+Implicits: 1
+You cannot be Cursed with Silence
++13% to Lightning Resistance
+Modifiers to Chance to Avoid being Shocked apply to all Elemental Ailments
+Corrupted
+			<ModRange id="1" range="0.5"/>
+			<ModRange id="2" range="0.5"/>
+			<ModRange id="3" range="0.5"/>
+		</Item>
+		<Item id="6">
+			Rarity: UNIQUE
+Forbidden Flame
+Crimson Jewel
+Unique ID: 8129b6ff60c1b5bbd87aa156fff89e009785ad18bb23d1e1d3c1de0fc71cccb8
+Item Level: 86
+Limited to: 1
+Requires Class Ranger
+Implicits: 0
+Allocates Endless Munitions if you have the matching modifier on Forbidden Flesh
+Corrupted
+			<ModRange id="1" range="0.5"/>
+		</Item>
+		<Item id="7">
+			Rarity: RARE
+Dusk Ornament
+Medium Cluster Jewel
+Unique ID: 3904370a485976a4b45a4f6f72db8360a7dd5e085c95c4f93fb771e4daf87851
+Item Level: 83
+LevelReq: 54
+Implicits: 3
+{crafted}Adds 5 Passive Skills
+{crafted}1 Added Passive Skill is a Jewel Socket
+{crafted}Added Small Passive Skills grant: 6% increased Flask Effect Duration
+Added Small Passive Skills also grant: +3% to Chaos Resistance
+Added Small Passive Skills also grant: 2% increased Flask Charges gained
+1 Added Passive Skill is Peak Vigour
+1 Added Passive Skill is Spiked Concoction
+			<ModRange id="1" range="0.5"/>
+			<ModRange id="2" range="0.5"/>
+			<ModRange id="3" range="0.5"/>
+			<ModRange id="4" range="0.5"/>
+			<ModRange id="5" range="0.5"/>
+			<ModRange id="6" range="0.5"/>
+			<ModRange id="7" range="0.5"/>
+		</Item>
+		<Item id="8">
+			Rarity: RARE
+Foe Splinter
+Large Cluster Jewel
+Unique ID: 52ee5be6b4b50b914de2ac34c22a694395b7a2a9cd706e13e3d4e24521a66700
+Item Level: 83
+LevelReq: 60
+Implicits: 3
+{crafted}Adds 8 Passive Skills
+{crafted}2 Added Passive Skills are Jewel Sockets
+{crafted}Added Small Passive Skills grant: 12% increased Chaos Damage
+Added Small Passive Skills also grant: +3% to Chaos Resistance
+1 Added Passive Skill is Touch of Cruelty
+1 Added Passive Skill is Unspeakable Gifts
+1 Added Passive Skill is Unwaveringly Evil
+			<ModRange id="1" range="0.5"/>
+			<ModRange id="2" range="0.5"/>
+			<ModRange id="3" range="0.5"/>
+			<ModRange id="4" range="0.5"/>
+			<ModRange id="5" range="0.5"/>
+			<ModRange id="6" range="0.5"/>
+			<ModRange id="7" range="0.5"/>
+		</Item>
+		<Item id="9">
+			Rarity: UNIQUE
+The Golden Rule
+Viridian Jewel
+Unique ID: 3fe388ae9756efb409dd4e0f9018a035c38bb2321aac39c0f7ca8fb438b1fef0
+Item Level: 86
+Limited to: 1
+Implicits: 0
+40% increased Armour while Bleeding
+Bleeding you inflict is Reflected to you
++1% to Chaos Resistance per Poison on you
+Poison you inflict is Reflected to you if you have fewer than 100 Poisons on you
+Corrupted
+			<ModRange id="1" range="0.5"/>
+			<ModRange id="3" range="0.5"/>
+		</Item>
+		<Item id="10">
+			Rarity: UNIQUE
+Sublime Vision
+Prismatic Jewel
+Unique ID: bcac8a60f327e5eccad35a332ae3514aaa76828cd6b950af87113b3ac71a3283
+Shaper Item
+Item Level: 87
+Limited to: 1
+Implicits: 0
+Auras from your Skills have 39% increased Effect on you
+Regenerate 15% Life over one second when hit while affected by Vitality
+Aura Skills other than Vitality are Disabled
+			<ModRange id="1" range="0.5"/>
+			<ModRange id="3" range="0.5"/>
+		</Item>
+		<Item id="11">
+			Rarity: MAGIC
+Experimenter&apos;s Quicksilver Flask of the Impala
+Unique ID: 3d54c06dcf409a205e2207afbc8febe367922a4f6247e86f1ac35c39cb5b5258
+Item Level: 84
+Quality: 25
+LevelReq: 67
+Implicits: 1
+{crafted}Used when Charges reach full
+40% increased Duration
+60% increased Evasion Rating during Effect
+			<ModRange id="3" range="0.5"/>
+			<ModRange id="4" range="0.5"/>
+		</Item>
+		<Item id="12">
+			Rarity: UNIQUE
+Eber&apos;s Unification
+Hubris Circlet
+Energy Shield: 239
+EnergyShieldBasePercentile: 0.8491
+Unique ID: 5df60be4a0bd0132397ba3332ee5f5d5712109079df68e41c9be67caf2894984
+Item Level: 85
+Quality: 0
+Sockets: R-G-B-B
+LevelReq: 69
+Implicits: 1
+12% increased Cooldown Recovery Rate
+Trigger Level 10 Void Gaze when you use a Skill
+165% increased Energy Shield
++73 to maximum Mana
+50% increased Stun and Block Recovery
+Gain 7% of Elemental Damage as Extra Chaos Damage
+Corrupted
+			<ModRange id="1" range="0.5"/>
+			<ModRange id="2" range="0.5"/>
+			<ModRange id="3" range="0.5"/>
+			<ModRange id="4" range="0.5"/>
+			<ModRange id="5" range="0.5"/>
+			<ModRange id="6" range="0.5"/>
+		</Item>
+		<Item id="13">
+			Rarity: RARE
+Bramble Cord
+Leather Belt
+Unique ID: 82b31a23bf6f7de009d88e00490ed155aaacf05921a43ef60177aacea206c72b
+Hunter Item
+Item Level: 85
+LevelReq: 67
+Implicits: 1
++48 to maximum Life
++50 to maximum Energy Shield
++144 to maximum Life
+12% increased maximum Life
+35% increased Flask Charges gained
+29% increased Flask Effect Duration
+{crafted}12% increased Cooldown Recovery Rate
+			<ModRange id="1" range="0.5"/>
+			<ModRange id="2" range="0.5"/>
+			<ModRange id="3" range="0.5"/>
+			<ModRange id="4" range="0.5"/>
+			<ModRange id="5" range="0.5"/>
+			<ModRange id="6" range="0.5"/>
+			<ModRange id="7" range="0.5"/>
+		</Item>
+		<Item id="14">
+			Rarity: UNIQUE
+Progenesis
+Amethyst Flask
+Unique ID: 7af8cf5e4ecdd8c80bf8c771a1335fed2149b9effb707068da46f955eb354a26
+Item Level: 87
+Quality: 20
+LevelReq: 60
+Implicits: 1
+{crafted}Used when Charges reach full
+19% reduced Charges per use
+27% increased Duration
+When Hit during effect, 25% of Life loss from Damage taken occurs over 4 seconds instead
+			<ModRange id="3" range="0.5"/>
+			<ModRange id="4" range="0.5"/>
+			<ModRange id="5" range="0.5"/>
+		</Item>
+		<Item id="15">
+			Rarity: MAGIC
+Alchemist&apos;s Sapphire Flask of Craft
+Unique ID: e1c9001336c89605c73d3128654a6a318c1dee708766d362d32442dee1eda20d
+Item Level: 85
+Quality: 20
+LevelReq: 64
+Implicits: 1
+{crafted}Reused at the end of this Flask&apos;s effect
+23% reduced Duration
+25% increased effect
+{crafted}15% of Damage Taken from Hits is Leeched as Life during Effect
+			<ModRange id="4" range="0.5"/>
+			<ModRange id="5" range="0.5"/>
+			<ModRange id="6" range="0.5"/>
+		</Item>
+		<Item id="16">
+			Rarity: RARE
+Tendril Husk
+Replicating Eshgraft
+Unique ID: f92d46a7df985467cbaeee1d7d354a0e88cc397864d5c156e787f27b0360143f
+Item Level: 85
+Quality: 8
+Implicits: 2
+2% increased Cooldown Recovery Rate for each Green Skill Gem you have socketed
+Uses level 30 Glowing Silhouette
+Damage Penetrates 8% Lightning Resistance
+75% increased Graftblood stored
+Skills used by this Graft have 154% increased Critical Strike Chance
+Skills used by this Graft have +32% to Critical Strike Multiplier
+Skills used by this Graft have 40% increased effect of Non-Damaging Ailments
+Corrupted
+			<ModRange id="1" range="0.5"/>
+			<ModRange id="2" range="0.5"/>
+			<ModRange id="3" range="0.5"/>
+			<ModRange id="4" range="0.5"/>
+		</Item>
+		<Item id="17">
+			Rarity: UNIQUE
+Atziri&apos;s Promise
+Amethyst Flask
+Unique ID: 0cad4f50cbc34c736865127cda21d5f38bf112668571f4df11a8d958ae5e1014
+Item Level: 80
+Quality: 20
+LevelReq: 68
+Implicits: 1
+{crafted}Used when Charges reach full
+Gain 8% of Elemental Damage as Extra Chaos Damage during effect
+2% of Chaos Damage Leeched as Life during Effect
+Gain 5% of Physical Damage as Extra Chaos Damage during effect
+			<ModRange id="3" range="0.5"/>
+			<ModRange id="4" range="0.5"/>
+			<ModRange id="5" range="0.5"/>
+		</Item>
+		<Item id="18">
+			Rarity: UNIQUE
+Enmity&apos;s Embrace
+Vermillion Ring
+Unique ID: bdf093afc85086e036969693bad8971595f1c75accd5f5cd4762a08a6b5b5013
+Item Level: 85
+LevelReq: 80
+Implicits: 1
+7% increased maximum Life
++38 to Strength
+18% increased Fire Damage
+69% reduced Fire Resistance
+Take 600 Fire Damage when you Use a Skill
+Damage Penetrates Fire Resistance equal to your Overcapped Fire Resistance, up to a maximum of 200%
+			<ModRange id="1" range="0.5"/>
+			<ModRange id="2" range="0.5"/>
+			<ModRange id="3" range="0.5"/>
+			<ModRange id="4" range="0.5"/>
+			<ModRange id="5" range="0.5"/>
+			<ModRange id="6" range="0.5"/>
+		</Item>
+		<Item id="19">
+			Rarity: UNIQUE
+Replica Nebulis
+Void Sceptre
+Unique ID: 5d93896e9c151f312c98525f96f94bc12d6ca5a1509d239b4548223cbebc3367
+Item Level: 86
+Quality: 20
+Sockets: G-G R
+LevelReq: 68
+Implicits: 3
+{crafted}Quality does not increase Physical Damage
+{crafted}Grants 1% increased Elemental Damage per 2% Quality
+87% increased Elemental Damage
+119% increased Implicit Modifier magnitudes
+17% increased Cast Speed
+14% increased Elemental Damage per 1% Missing
+Fire, Cold, or Lightning Resistance, up to a maximum of 450%
+			<ModRange id="1" range="0.5"/>
+			<ModRange id="2" range="0.5"/>
+			<ModRange id="3" range="0.5"/>
+			<ModRange id="4" range="0.5"/>
+			<ModRange id="5" range="0.5"/>
+			<ModRange id="6" range="0.5"/>
+		</Item>
+		<Item id="20">
+			Rarity: RARE
+Brittle Knuckle
+Flamecaller Xophgraft
+Unique ID: bf167f8c150a5f235bb8f07faada75025103d04db98bd04f8f357dfbcbb7e38b
+Item Level: 75
+Quality: 6
+Implicits: 2
+2% increased Cooldown Recovery Rate for each Green Skill Gem you have socketed
+Uses level 24 Call the Pyre
++14 to Strength
+16% increased Graftblood gained
+Skills used by this Graft have 8% increased Area of Effect
+Skills used by this Graft deal 103% increased Damage
+Corrupted
+			<ModRange id="1" range="0.5"/>
+			<ModRange id="3" range="0.5"/>
+			<ModRange id="4" range="0.5"/>
+		</Item>
+		<Item id="21">
+			Rarity: UNIQUE
+The Rat Cage
+Sharkskin Tunic
+Evasion: 1492
+EvasionBasePercentile: 0.1662
+Unique ID: b33e64e3f5dc8669d9906baf48e3ba061ea6a4ab6814162541a1d24d5e7d6357
+Item Level: 83
+Quality: 20
+Sockets: B-B-R-B-G-R
+LevelReq: 56
+Implicits: 2
++2 to Level of Socketed Duration Gems
++2 to Level of Socketed Projectile Gems
+117% increased Evasion Rating
++299 to maximum Life
+15% increased Movement Speed
+100% of Fire Damage from Hits taken as Physical Damage
+Corrupted
+			<ModRange id="1" range="0.5"/>
+			<ModRange id="2" range="0.5"/>
+			<ModRange id="3" range="0.5"/>
+			<ModRange id="4" range="0.5"/>
+			<ModRange id="5" range="0.5"/>
+			<ModRange id="6" range="0.5"/>
+		</Item>
+		<Item id="22">
+			Rarity: RARE
+Pain Dash
+Phantom Boots
+Evasion: 272
+EvasionBasePercentile: 0.6989
+Energy Shield: 54
+EnergyShieldBasePercentile: 0.6667
+Unique ID: a891c859d1fef51f6dfaeea397d233512c0d94c19bc22a093309a9fdd3f2c842
+Searing Exarch Item
+Eater of Worlds Item
+Item Level: 86
+Quality: 20
+Sockets: R-B-G-B
+LevelReq: 84
+Implicits: 2
+8% increased Cooldown Recovery Rate
+Drops Sapped Ground while moving, lasting 3 seconds
+{fractured}+50 to Intelligence
++12% chance to Suppress Spell Damage
++117 to maximum Life
++47 to maximum Mana
++45% to Cold Resistance
+35% increased Movement Speed
+Fractured Item
+			<ModRange id="1" range="0.5"/>
+			<ModRange id="2" range="0.5"/>
+			<ModRange id="3" range="0.5"/>
+			<ModRange id="4" range="0.5"/>
+			<ModRange id="5" range="0.5"/>
+			<ModRange id="6" range="0.5"/>
+			<ModRange id="7" range="0.5"/>
+			<ModRange id="8" range="0.5"/>
+		</Item>
+		<Item id="23">
+			Rarity: RARE
+Behemoth Knuckle
+Shagreen Gloves
+Evasion: 371
+EvasionBasePercentile: 0.5667
+Unique ID: dd33c67c600079484e0f51ccc38288802aca951bdf3d94b1afdf4975eed459fc
+Searing Exarch Item
+Eater of Worlds Item
+Item Level: 83
+Quality: 20
+Sockets: R-B-G-B
+LevelReq: 54
+Implicits: 2
+Projectiles Pierce an additional Target
++10% to Chaos Damage over Time Multiplier
+{fractured}+12% chance to Suppress Spell Damage
++55 to Intelligence
++24 to Evasion Rating
+40% increased Evasion Rating
++146 to maximum Life
++35% to Lightning Resistance
+16% increased Stun and Block Recovery
+Fractured Item
+			<ModRange id="1" range="0.5"/>
+			<ModRange id="2" range="0.5"/>
+			<ModRange id="3" range="0.5"/>
+			<ModRange id="4" range="0.5"/>
+			<ModRange id="5" range="0.5"/>
+			<ModRange id="6" range="0.5"/>
+			<ModRange id="7" range="0.5"/>
+			<ModRange id="8" range="0.5"/>
+			<ModRange id="9" range="0.5"/>
+		</Item>
+		<Item id="24">
+			Rarity: UNIQUE
+Tainted Pact
+Coral Amulet
+Unique ID: e29dfe91e8b5432cb3c6bf5d43cdac04e5ffd879b95e069b37b1406c75977ba0
+Item Level: 83
+LevelReq: 48
+Implicits: 3
+{crafted}Allocates Infused Flesh
+You can apply an additional Curse
+Determination has 17% increased Aura Effect
++25 to Strength
+2.12% of Physical Attack Damage Leeched as Life
+1.28% of Physical Attack Damage Leeched as Mana
+Taking Chaos Damage over Time heals you instead while Leeching Life
+Corrupted
+			<ModRange id="1" range="0.5"/>
+			<ModRange id="2" range="0.5"/>
+			<ModRange id="3" range="0.5"/>
+			<ModRange id="4" range="0.5"/>
+			<ModRange id="5" range="0.5"/>
+			<ModRange id="6" range="0.5"/>
+		</Item>
+		<Item id="25">
+			Rarity: RELIC
+Enmity&apos;s Embrace
+Vermillion Ring
+Unique ID: f4433691dc6158ab61e8c3254b1c82247f2a3772325382fc7af633b30b33ece8
+Item Level: 87
+LevelReq: 80
+Implicits: 1
+7% increased maximum Life
++44 to Strength
+21% increased Fire Damage
+71% reduced Fire Resistance
+Take 600 Fire Damage when you Use a Skill
+Damage Penetrates Fire Resistance equal to your Overcapped Fire Resistance, up to a maximum of 200%
+			<ModRange id="1" range="0.5"/>
+			<ModRange id="2" range="0.5"/>
+			<ModRange id="3" range="0.5"/>
+			<ModRange id="4" range="0.5"/>
+			<ModRange id="5" range="0.5"/>
+			<ModRange id="6" range="0.5"/>
+		</Item>
+		<Item id="26">
+			Rarity: UNIQUE
+Festering Resentment
+Demon Dagger
+Unique ID: 19f84090e0df6dfea6ade830e7415b2f51a45ad75dc251efbfcc15c17f53f3b2
+Item Level: 87
+Quality: 0
+Sockets: R-R G
+LevelReq: 68
+Implicits: 1
++25% to Global Critical Strike Multiplier
+Trigger a Socketed Spell when you Block, with a 0.25 second Cooldown
++40% Chance to Block Spell Damage while in Off Hand
+143% increased Spell Damage
+145% increased Damage with Poison
+Triggered Spells Poison on Hit
+All Damage with Triggered Spells can Poison
+Corrupted
+			<ModRange id="1" range="0.5"/>
+			<ModRange id="2" range="0.5"/>
+			<ModRange id="3" range="0.5"/>
+			<ModRange id="4" range="0.5"/>
+			<ModRange id="5" range="0.5"/>
+			<ModRange id="6" range="0.5"/>
+			<ModRange id="7" range="0.5"/>
+		</Item>
+		<Item id="27">
+			Rarity: MAGIC
+Alchemist&apos;s Topaz Flask of Bog Moss
+Unique ID: 3b9ecd4b6ad2e13656c6cd58f47ff441a07b60db3de27799d234a50d3a39a35c
+Item Level: 84
+Quality: 27
+LevelReq: 65
+Implicits: 1
+{crafted}Reused at the end of this Flask&apos;s effect
+24% reduced Duration
+25% increased effect
+54% chance to Avoid being Shocked during Effect
+			<ModRange id="4" range="0.5"/>
+			<ModRange id="5" range="0.5"/>
+			<ModRange id="6" range="0.5"/>
+		</Item>
+		<ItemSet id="1" useSecondWeaponSet="false">
+			<Slot itemId="17" name="Flask 5" active="true" itemPbURL=""/>
+			<Slot itemId="0" name="Weapon 2 Abyssal Socket 1" itemPbURL=""/>
+			<Slot itemId="0" name="Weapon 2 Abyssal Socket 2" itemPbURL=""/>
+			<Slot itemId="0" name="Weapon 2 Abyssal Socket 3" itemPbURL=""/>
+			<Slot itemId="0" name="Weapon 2 Abyssal Socket 4" itemPbURL=""/>
+			<Slot itemId="0" name="Weapon 2 Abyssal Socket 5" itemPbURL=""/>
+			<Slot itemId="0" name="Weapon 2 Abyssal Socket 6" itemPbURL=""/>
+			<Slot itemId="0" name="Helmet Abyssal Socket 1" itemPbURL=""/>
+			<Slot itemId="0" name="Helmet Abyssal Socket 2" itemPbURL=""/>
+			<Slot itemId="0" name="Helmet Abyssal Socket 3" itemPbURL=""/>
+			<Slot itemId="0" name="Helmet Abyssal Socket 4" itemPbURL=""/>
+			<Slot itemId="0" name="Helmet Abyssal Socket 5" itemPbURL=""/>
+			<Slot itemId="0" name="Helmet Abyssal Socket 6" itemPbURL=""/>
+			<Slot itemId="0" name="Body Armour Abyssal Socket 1" itemPbURL=""/>
+			<Slot itemId="0" name="Body Armour Abyssal Socket 2" itemPbURL=""/>
+			<Slot itemId="0" name="Body Armour Abyssal Socket 3" itemPbURL=""/>
+			<Slot itemId="0" name="Body Armour Abyssal Socket 4" itemPbURL=""/>
+			<Slot itemId="0" name="Body Armour Abyssal Socket 5" itemPbURL=""/>
+			<Slot itemId="0" name="Body Armour Abyssal Socket 6" itemPbURL=""/>
+			<Slot itemId="0" name="Gloves Abyssal Socket 1" itemPbURL=""/>
+			<Slot itemId="0" name="Gloves Abyssal Socket 2" itemPbURL=""/>
+			<Slot itemId="0" name="Gloves Abyssal Socket 3" itemPbURL=""/>
+			<Slot itemId="0" name="Gloves Abyssal Socket 4" itemPbURL=""/>
+			<Slot itemId="0" name="Gloves Abyssal Socket 5" itemPbURL=""/>
+			<Slot itemId="0" name="Gloves Abyssal Socket 6" itemPbURL=""/>
+			<Slot itemId="0" name="Boots Abyssal Socket 1" itemPbURL=""/>
+			<Slot itemId="0" name="Boots Abyssal Socket 2" itemPbURL=""/>
+			<Slot itemId="0" name="Boots Abyssal Socket 3" itemPbURL=""/>
+			<Slot itemId="0" name="Boots Abyssal Socket 4" itemPbURL=""/>
+			<Slot itemId="0" name="Boots Abyssal Socket 5" itemPbURL=""/>
+			<Slot itemId="0" name="Boots Abyssal Socket 6" itemPbURL=""/>
+			<Slot itemId="0" name="Belt Abyssal Socket 2" itemPbURL=""/>
+			<Slot itemId="0" name="Belt Abyssal Socket 3" itemPbURL=""/>
+			<Slot itemId="0" name="Belt Abyssal Socket 4" itemPbURL=""/>
+			<Slot itemId="0" name="Belt Abyssal Socket 5" itemPbURL=""/>
+			<Slot itemId="0" name="Belt Abyssal Socket 6" itemPbURL=""/>
+			<SocketIdURL nodeId="7960" name="Jewel 7960" itemPbURL=""/>
+			<Slot itemId="0" name="Weapon 1 Swap" itemPbURL=""/>
+			<Slot itemId="16" name="Graft 2" itemPbURL=""/>
+			<SocketIdURL nodeId="22994" name="Jewel 22994" itemPbURL=""/>
+			<SocketIdURL nodeId="26196" name="Jewel 26196" itemPbURL=""/>
+			<SocketIdURL nodeId="26725" name="Jewel 26725" itemPbURL=""/>
+			<SocketIdURL nodeId="46393" name="Jewel 46393" itemPbURL=""/>
+			<SocketIdURL nodeId="46882" name="Jewel 46882" itemPbURL=""/>
+			<SocketIdURL nodeId="54127" name="Jewel 54127" itemPbURL=""/>
+			<SocketIdURL nodeId="55190" name="Jewel 55190" itemPbURL=""/>
+			<SocketIdURL nodeId="60735" name="Jewel 60735" itemPbURL=""/>
+			<Slot itemId="20" name="Graft 1" itemPbURL=""/>
+			<Slot itemId="11" name="Flask 3" active="true" itemPbURL=""/>
+			<Slot itemId="0" name="Belt Abyssal Socket 1" itemPbURL=""/>
+			<Slot itemId="14" name="Flask 4" active="true" itemPbURL=""/>
+			<Slot itemId="15" name="Flask 1" active="true" itemPbURL=""/>
+			<Slot itemId="19" name="Weapon 1" itemPbURL=""/>
+			<Slot itemId="24" name="Amulet" itemPbURL=""/>
+			<Slot itemId="12" name="Helmet" itemPbURL=""/>
+			<Slot itemId="26" name="Weapon 2" itemPbURL=""/>
+			<Slot itemId="21" name="Body Armour" itemPbURL=""/>
+			<Slot itemId="23" name="Gloves" itemPbURL=""/>
+			<Slot itemId="22" name="Boots" itemPbURL=""/>
+			<Slot itemId="18" name="Ring 1" itemPbURL=""/>
+			<Slot itemId="25" name="Ring 2" itemPbURL=""/>
+			<Slot itemId="0" name="Ring 3" itemPbURL=""/>
+			<Slot itemId="27" name="Flask 2" active="true" itemPbURL=""/>
+			<Slot itemId="13" name="Belt" itemPbURL=""/>
+			<Slot itemId="0" name="Weapon 1 Swap Abyssal Socket 1" itemPbURL=""/>
+			<Slot itemId="0" name="Weapon 1 Swap Abyssal Socket 2" itemPbURL=""/>
+			<Slot itemId="0" name="Weapon 1 Swap Abyssal Socket 3" itemPbURL=""/>
+			<Slot itemId="0" name="Weapon 1 Swap Abyssal Socket 4" itemPbURL=""/>
+			<Slot itemId="0" name="Weapon 1 Swap Abyssal Socket 5" itemPbURL=""/>
+			<Slot itemId="0" name="Weapon 1 Swap Abyssal Socket 6" itemPbURL=""/>
+			<Slot itemId="0" name="Weapon 1 Abyssal Socket 1" itemPbURL=""/>
+			<Slot itemId="0" name="Weapon 1 Abyssal Socket 2" itemPbURL=""/>
+			<Slot itemId="0" name="Weapon 1 Abyssal Socket 3" itemPbURL=""/>
+			<Slot itemId="0" name="Weapon 1 Abyssal Socket 4" itemPbURL=""/>
+			<Slot itemId="0" name="Weapon 1 Abyssal Socket 5" itemPbURL=""/>
+			<Slot itemId="0" name="Weapon 1 Abyssal Socket 6" itemPbURL=""/>
+			<Slot itemId="0" name="Weapon 2 Swap Abyssal Socket 1" itemPbURL=""/>
+			<Slot itemId="0" name="Weapon 2 Swap Abyssal Socket 2" itemPbURL=""/>
+			<Slot itemId="0" name="Weapon 2 Swap Abyssal Socket 3" itemPbURL=""/>
+			<Slot itemId="0" name="Weapon 2 Swap Abyssal Socket 4" itemPbURL=""/>
+			<Slot itemId="0" name="Weapon 2 Swap Abyssal Socket 5" itemPbURL=""/>
+			<Slot itemId="0" name="Weapon 2 Swap Abyssal Socket 6" itemPbURL=""/>
+			<Slot itemId="0" name="Weapon 2 Swap" itemPbURL=""/>
+			<SocketIdURL nodeId="61305" name="Jewel 61305" itemPbURL=""/>
+		</ItemSet>
+		<TradeSearchWeights/>
+	</Items>
+	<Calcs>
+		<Input string="EFFECTIVE" name="misc_buffMode"/>
+		<Input number="1" name="skill_number"/>
+		<Section id="SkillSelect" subsection="ViewSkillDetails" collapsed="false"/>
+		<Section id="HitDamage" subsection="SkillHitDamage" collapsed="false"/>
+		<Section id="Warcries" subsection="ExertingWarcries" collapsed="false"/>
+		<Section id="Dot" subsection="SkillDamageoverTime" collapsed="false"/>
+		<Section id="Speed" subsection="AttackCastRate" collapsed="false"/>
+		<Section id="Crit" subsection="Crits" collapsed="false"/>
+		<Section id="Impale" subsection="Impale" collapsed="false"/>
+		<Section id="SkillTypeStats" subsection="SkilltypespecificStats" collapsed="false"/>
+		<Section id="HitChance" subsection="Accuracy" collapsed="false"/>
+		<Section id="Bleed" subsection="Bleed" collapsed="false"/>
+		<Section id="Poison" subsection="Poison" collapsed="false"/>
+		<Section id="Ignite" subsection="Ignite" collapsed="false"/>
+		<Section id="Decay" subsection="Decay" collapsed="false"/>
+		<Section id="LeechGain" subsection="LeechGainonHit" collapsed="false"/>
+		<Section id="EleAilments" subsection="NonDamagingAilments" collapsed="false"/>
+		<Section id="MiscEffects" subsection="OtherEffects" collapsed="false"/>
+		<Section id="Attributes" subsection="Attributes" collapsed="false"/>
+		<Section id="Life" subsection="Life" collapsed="false"/>
+		<Section id="Mana" subsection="Mana" collapsed="false"/>
+		<Section id="EnergyShield" subsection="EnergyShield" collapsed="false"/>
+		<Section id="Ward" subsection="Ward" collapsed="false"/>
+		<Section id="Resist" subsection="Resists" collapsed="false"/>
+		<Section id="Armour" subsection="Armour" collapsed="false"/>
+		<Section id="Evasion" subsection="Evasion" collapsed="false"/>
+		<Section id="DamageAvoidance" subsection="DamageAvoidance" collapsed="false"/>
+		<Section id="DamageAvoidance" subsection="Block" collapsed="false"/>
+		<Section id="DamageAvoidance" subsection="Dodge" collapsed="false"/>
+		<Section id="DamageAvoidance" subsection="SpellSuppression" collapsed="false"/>
+		<Section id="Flasks" subsection="Flasks" collapsed="false"/>
+		<Section id="Flasks" subsection="UtilityFlasks" collapsed="true"/>
+		<Section id="Flasks" subsection="LifeFlasks" collapsed="true"/>
+		<Section id="Flasks" subsection="ManaFlasks" collapsed="true"/>
+		<Section id="Flasks" subsection="Tinctures" collapsed="true"/>
+		<Section id="Rage" subsection="Rage" collapsed="true"/>
+		<Section id="Charges" subsection="Charges" collapsed="true"/>
+		<Section id="Charges" subsection="Endurance" collapsed="true"/>
+		<Section id="Charges" subsection="Frenzy" collapsed="true"/>
+		<Section id="Charges" subsection="Power" collapsed="true"/>
+		<Section id="MiscDefences" subsection="OtherDefences" collapsed="false"/>
+		<Section id="MiscDefences" subsection="Fortification" collapsed="false"/>
+		<Section id="MiscDefences" subsection="StunDuration" collapsed="false"/>
+		<Section id="MiscDefences" subsection="OtherAvoidance" collapsed="true"/>
+		<Section id="MiscDefences" subsection="OtherAilmentDefences" collapsed="true"/>
+		<Section id="DamageTaken" subsection="DamageTaken" collapsed="false"/>
+		<Section id="DamageTaken" subsection="DamagingHits" collapsed="false"/>
+		<Section id="DamageTaken" subsection="EffectiveHealthPool" collapsed="false"/>
+		<Section id="DamageTaken" subsection="MaximumHitTaken" collapsed="false"/>
+		<Section id="DamageTaken" subsection="RecoupandHitTakenOverTime" collapsed="true"/>
+		<Section id="DamageTaken" subsection="DotsandBuildDegens" collapsed="false"/>
+		<Section id="DamageTaken" subsection="EnemyDegens" collapsed="true"/>
+	</Calcs>
+	<Party append="false" ShowAdvanceTools="false" destination="All"/>
+	<TreeView zoomLevel="8" zoomX="683.35755358617" zoomY="-690.3471127921" searchStr="" showStatDifferences="true"/>
+	<Notes>
+		Video Guide:
+
+Cast on ...Portal?
+
+# Introduction
+
+Welcome - or if I may - Salutations, Exile. This is Cast on Portal. The playstyle is simple - you hold down Portal, and you zip from pack to pack triggering a million spells, facetanking anything that doesn&apos;t one shot you, without needing to aim or even move. This is a quintessential PoE build - jank, complex mechanics, breakpoints, unintended interactions, turning niche downsides into major upsides, it has it all.
+
+# Build Guide
+
+# The Basics
+
+* The Portal gem is a skill we can use, just like any other skill in the game.
+* Enmity&apos;s Embrace is a ring which hits for up to 600 fire damage us when we use a skill (assuming max roll and catalyzed).
+* Portal&apos;s animation gets interrupted when we get hit during the animation. Since Enmity&apos;s Embrace hits us as soon as we use Portal, it immediately cancels the animation and lets us use Portal again on the very next server tick. I learned this interaction from [this Reddit post](https://www.reddit.com/r/PathOfExileBuilds/comments/1p0d5ik/new_cwdt_tech_with_portal_gem_and_enmitys_embrace/) by u/FrogForgeGames.
+* Essentially, we hit ourselves with Enmity&apos;s Embrace every server tick if we hold down Portal.
+
+# The Self Damage Puzzle
+
+* This interaction is the perfect recipe for a self damage Cast When Damage Taken looper, very similar to Wardloop builds.
+* To trigger a 20/20 Cwdt, we need to take 2945 self damage. 
+* Using two perfectly rolled and catalyzed Enmity&apos;s Embrace hits us for 1200 fire damage every server tick.
+* However, Enmity&apos;s Embrace also has &quot;reduced fire resistance&quot;. Using two rings takes us over 100% reduced fire resistance, which means we can no longer scale fire res and will basically fall over to any fire hit.
+* Using a single ring and scaling fire resistance normally would mitigate too much of our self damage for the self damage loop.
+* Enter Rat&apos;s Cage - a unique chest which converts 100% incoming fire damage from hits to physical damage. We now take 1200 physical damage from the ring self damage instead of fire damage.
+* This now presents a new problem - armour will now mitigate this self damage, as well as any flat physical damage reduction (like from endurance charges). Traditional wardloop builds get around this limitation by simply not scaling any armour, but this made them extremely weak to physical damage.
+* Armour is much better at mitigating smaller hits than it is for bigger hits, so even a moderate amount of armour will mitigate too much of our self damage to enable Cwdt.
+* Enter Imbalanced Guard - a very niche and often overlooked keystone. It makes us always defend with 200% armour, but caps our maximum damage reduction to 50%. Note this is specifically for &quot;damage reduction&quot;, and does not apply to resistances.
+* Essentially, it allows us to scale armour normally to tank against big hits, while still mitigating at most 50% of the damage from smaller hits. This means we are guaranteed to take 600 self physical damage from the two rings.
+* The intended tradeoff for the keystone is that it allows armour to help against big hits, but makes us weaker to being shotgunned by many small hits in a row. But as I will explain later, this downside is something we completely negate.
+* At the 52% cooldown recovery breakpoint, we bring the cooldown of Cwdt to 0.165, or 5 server ticks. We take 600 self damage per server tick, so at 5 server ticks we take 3000 self damage, just barely over the 2945 required to trigger a 20/20 Cwdt.
+
+# The Self Damage Recovery Puzzle
+
+* So now we take 3000 self damage every 5 server ticks. This is a lot of self damage to mitigate. Wardloopers use a permanent Olroth&apos;s Resolve to have permanent ward to mitigate its self damage - hence the name, &quot;wardloop&quot;.
+* The key thing that separates us from all other Cwdt loopers is that **we get to control when we take our self damage**. We only take the self damage while we hold down portal. We do not need a permanent damage mitigation engine that applies out of combat. This concept is fundamental to understanding how and why our recovery engine works.
+* Enter Tainted Pact - a potentially very powerful amulet, but also incredibly difficult to build around. Tainted Pact makes us heal from chaos damage over time, provided we are leeching. I do want to shout out to [this video](https://youtube.com/watch?v=g5bnJOmRF8M&amp;si=1xULXwqSj9ZtUXjA) by u/TableForRambo, a very thorough breakdown of the amulet and how to enable it. I learned a lot of its mechanics from this video.
+* Golden Rule reflects any poisons we deal back onto ourself, up to a 100. Due to the nature of damage scaling, the damage we deal to enemies is significantly higher relative to our life pool. We inflict poisons on the multiple millions of chaos damage per second, while our life pools are in the thousands.
+* Effectively, this means we are healing our entire life pool every server tick. In fact, we are actually healing several thousand times our life pool every server tick, but at this point the actual number is purely academic.
+* This is how we deal with the downside of Imbalanced Guard, since even if the most we mitigate from a hit is 50%, we immediately recover to full the very next server tick, essentially making us immune to shotgunning. We can only die to one shots.
+* This is also how we deal with fire damage over time, since we effectively have 0 fire resistance but who needs fire resistance when you have millions of life recovered per second.
+* The trickiest part of Tainted Pact is enabling permanent leech, or else we fall over to our reflected self poison. 
+* Our first step is get a source of overleech, in our case from the Immortal Ambition timeless keystone.
+* The second part is to actually be leeching. We enable it though two sources, both of which are important - the flask mod &quot;15% of damage taken leeched as life&quot;, and a strong source of global leech - in this case, the 2% chaos damage leech from Atziri&apos;s Promise.
+* The crucial thing to understand here is that we only need the leech and self poison recovery while there are enemies nearby, since we are not taking the self damage otherwise.
+* So while there are enemies nearby, we hold down portal, which hits enemies and reflects the poisons back onto us, and we start leeching from both the self damage and the hit damage on the enemy.
+* This still leaves us with the problem of needing a long enough leech duration to counteract the poison duration. What happens otherwise is that we fall over to the reflected self poison when we stop holding portal, and self damage leech runs out right after.
+* We cannot keep holding Portal while there are no enemies nearby, since we cannot sustain the self damage too long without the reflected poisons giving recovery.
+* This is why the global chaos leech from Atziri&apos;s Promise is critical - you need your hit damage to be strong enough to generate long enough leeches, and you need to leech a sizable portion of it. There is also the Watcher&apos;s Eye Vitality mod for global leech, but from my testing that alone isn&apos;t good enough to replace Atziri&apos;s.
+
+# Out of Combat Recovery
+
+* We still need some recovery out of combat, just in general but also to mitigate the occasional self damage we do while there are no nearby enemies.
+* Our solution is to use a Vitality Sublime Vision, which gives us 15% life recovered over 1 second when we take a hit (so basically every time we press Portal). 
+* Passive recovery from the Sublime Vision is important, since otherwise we will be left with a situation where we have taken too much self damage but we&apos;re too low on life to restart the Portal loop when we get to the next pack.
+* Of course, we also have the passive recovery from an Eternal Blessing lvl 21 Vitality.
+* We have 18% life recoup from the Infused Flesh anoint, which gives a solid recovery from all our self damage. It gives a few seconds of recovery which decays over 4s after we stop holding portal.
+* The self leech from the flask mod also gives a decent recovery.
+
+# Damage Scaling 
+
+* Everything I explained so far is the core to self damage loop, and now we need to settle on a damage engine.
+* Replica Nebulis was changed this league, and now grants up to 450% increased elemental damage per missing elemental resistance. Since we have 0 fire resistance, this is just a free 450% generic elemental damage with no downside. The implicit also gives another 80 ish increased elemental damage. 
+* Festering Resentment is a new dagger which grants all damage with triggered spells can poison, and 100% poison chance with triggered spells. It also gives up to 150% increased spell and 150% increased poison damage. Since we trigger all our spells, this enables all our damage to poison.
+* Since all of our scaling is generic elemental damage, we can treat this as a hybrid hit/poison based setup with little opportunity cost. Usually, it is suboptimal to try to scale both hit and poison damage but it works out perfectly in this setup. The increased elemental damage applies independently to both the hit damage as well as the poison damage from the hits, effectively scaling both.
+* Despite being able to poison with all damage, we actually go for full chaos convert to take advantage of Pathfinder&apos;s giga wither stacks for the hit damage. Wither is an incredible damage scalar which applies to both the poison and the hit damage if we convert to chaos. This also has the added benefit of being able to run elemental reflect maps.
+* This setup is generic enough to run most elemental spells so we have a lot of flexibility, but we are biased to a few types of spells (which I&apos;ll explain later).
+* This is just one setup, just seemed like the easiest to enable. Some other options include the traditional glass cannon Annihilating Light, INT stack Jiquiani&apos;s Potential, Black Cane + Dark Monarch, Burden of Shadows + Runegraft of the Witchmark + Unlight Silhouette (the spiciest option, but also probably the hardest to build). Basically, any setup that gives generic flat or increased damage to all skills is helpful as we trigger a lot of skills.
+
+# Ascendancy Choice
+
+* We go Pathfinder to enable permanent flasks (important for self leech mod), but also helps capping resistances making gearing easier considering we run a lot of uniques. 
+* Having a juiced up wither and a method to reliably apply them is one of the few ways to efficiently scale both the poison and the chaos hit damage with low opportunity cost.
+* At a higher budget, being able to scale up Progenesis is powerful, as it is one of the few ways to scale our phys max hit without affecting our Cwdt loop.
+* We take the Lycia Bloodline to convert 50% of elemental damage to chaos. We get the rest of the conversion with Foulborn jewels.
+* Importantly, we do NOT take the poison proliferation node. Prolif seems to mess with the reflected self poisons, and it doesn&apos;t seem efficient to spend a whole ascendancy point to scale only the poison damage when we are a hybrid hit/poison build.
+* There is a strong case to be made for Saboteur, with 40% CDR, returning projectiles, and triggerbots. Might be something I&apos;ll attempt down the line.
+
+# Skill Gems and Supports
+
+* Since we are scaling generic elemental damage, we can run pretty much most elemental spells.
+* However, we are a slightly biased towards green skill gems. Since we run two grafts with the implicit &quot;2% increased cooldown recovery per socketed green skill gem&quot;, this means we get global 4% CDR per green skill gem.
+* There are quite a few green skills which are good, including Detonate Dead of Chain Reaction, Volatile Dead, Desecrate/Unearth to generate corpses, Cremation of the Volcano, to name a few. 
+* In my setup, I go for 100% fire converted to chaos with the help of Foulborn Red Nightmare near Marauder which good resistance nodes nearby and a few fire res tattoos to convert all the fire damage to chaos. The rest of the conversion comes from The Lycia Bloodline.
+* In my current setup, I am stealing the Endless Munitions Forbidden Jewels from Deadeye and scaling a lot of projectile skills which shotgun. This is not mandatory at all, you can run a Detonate Dead of Chain Reaction setup instead and is just as strong.
+* In the 6L, I actually run Creeping Frost and Ice Spear with the Cold to Fire support. 50% of the cold is already converted to chaos, and the remaining 50% is converted to fire, all of which is still converted to chaos. Cold to Fire is an excellent damage support with all the &quot;elemental as extra chaos damage&quot; we get, since it double dips with conversion.
+* Both of these are excellent skills mechanically, as they can shotgun and benefit from additional projectiles from GMP. Creeping Frost requires 1 pierce to shotgun with the explosion, which we get form our glove implicit. They also have perfect aim given the nature of the targeting from Cwdt.
+* Blazing Salvo is another skill which benefits greatly from added projectiles, since you can get perfect shotgunning with returning projectiles if you are on top of the boss.
+* Cwdt Lightning Warp is the key to the flicker style zooming gameplay. It automatically teleports you from enemy to enemy just by holding down Portal, removing the need to even move. You could also add in Frostblink of Wintry Blast for even more zoom, which flickers you around even more but I can&apos;t tell if its actually making my clear any better.
+* Lightning Warp also repositions you perfectly on top of enemies for perfect shotgunning with Creeping Frost and Blazing Salvo.
+* Cremation and Fireball are also spells which benefit from the added projectiles.
+* Alternatively, Detonate Dead of Chain Reaction is excellent damage wise, and we can generate corpses with Desecrate + Spell Cascade. We can also throw in Firestorm of Pelting into the Desecrate link since it benefits from Spell Cascade. Volatile Dead is also an option, but you&apos;ll also need to run Unearth in that case since Desecrate alone doesn&apos;t make enough corpses.
+* Despair is the main curse, which is also triggered. I have a second curse from amulet corruption, which I use for Sniper&apos;s Mark for my projectile skills. Temporal Chains is an alternative if you don&apos;t scale projectiles.
+* Eternal Blessing + Vitality is run in the dagger, since we can&apos;t run Cwdt skills in the dagger since it already has Cast on Block.
+* Blood Rage in the dagger with Cast on Block automates frenzy charge generation for mapping.
+* Portal is best run on the Replica Nebulis.
+* Cruelty is an excellent support, if you can squeeze it in, as it scales both our hit and poison damage.
+* If you&apos;re not memeing, you should run a manual dodge skill to dodge big hits (Dash is the best since its a green skill).
+* Feel free to experiment with any other combinations, I frequently change my setups all the time. Make sure you have enough green skills to hit the 52% CDR breakpoint.
+
+# Gearing
+
+* Rats Cage is a core item to enable Cwdt. These are cheap, so try to get one with good double corruptions.
+* Two Enmity&apos;s Embrace with max roll self damage are also critical. You could get away with slightly less than max rolls if the total self damage over 5 server ticks exceeds 2945. Ensure that you catalyze to scale it to 600 self damage.
+* Tainted Pact is also a core item. +1 curse corruption is not mandatory, but helpful.
+* Replica Nebulis and Festering Resentment are our damage engine.
+* Two grafts with the CDR implicit are important for reaching the 52% breakpoint. The actual skills of the graft aren&apos;t too important, but something like the shock clones are generically good for damage.
+* Gloves and Boots are generic suppress/life/resists, but the eldritch implicits are important. +1 pierce on gloves is important to enable Creeping Frost shotguns, and CDR on boots is important to hit the 52% breakpoint. Sapped Ground from boots is powerful, as it is one of the few ways to improve your max hit and you have perfect uptime since you teleport on top of bosses.
+* We struggle a bit with intelligence requirements, so try to get it on the gloves and boots.
+* For the helmet, I opt to run for Eber&apos;s Unification with the CDR corruption. It is a cheap helm, so the CDR corruption shouldn&apos;t be too expensive, and the bonuses are also extremely strong in our build. Elemental as extra chaos is a really powerful mod with all the damage conversion, and Void Gaze is a really powerful debuff applying -20% chaos resistance to enemies. Void Gaze is triggered when we use a skill, and since we &quot;use&quot; Portal every server tick, it has excellent uptime.
+* Belt is a generic life and flask sustain belt, but the important part is having an empty suffix to craft CDR. Make sure your belt enables permanent uptime on your Topaz and Sapphire flasks (check in POB).
+* The alternate setup for CDR is to use Tides of Time with a Shaper multi link helm, and use a Bound by Destiny with the CDR mod for equipping 2 Shaper items. I find jewel sockets too constraining to opt for this, but it is an option.
+
+# Flasks
+
+* A Topaz and Sapphire flask with increased effect/reduced duration are important for capping resists and easy to sustain. This is where you should have the self damage leech mod, and the other flask should have avoid shock to enable Stormshroud. 
+* Enchant these flasks with &quot;Reused at end of flask effect&quot; instead of &quot;Used when charges reaches full&quot;, and manually activate them at the start of the map. When you check in POB, there will be two lines for flask uptime - minimum, and average. As long as your average is 100%, you can safely use &quot;Reused at end of flask effect&quot; even if minimum is less than 100%.
+* For your other magic flask, run a quicksilver for mobility. This can be enchanted with &quot;Used when charges reaches full&quot; since you probably won&apos;t have permanent uptime.
+* Atziri&apos;s Promise is mandatory. The chaos leech is critical to getting long enough leeches to outlast your reflected poisons. The elemental damage as extra chaos damage is also very strong in this type of build, considering all our damage conversions.
+* Progenesis is the single biggest late game upgrade. It is incredibly powerful, and one of the few ways to increase your max hit without bricking Progenesis.
+* Witchfire&apos;s Brew is a decent alternative till then, granting Despair aura and saving you a valuable gem slot.
+* It seems a bit cringe to run two amethyst flasks (Atziri&apos;s and Progenesis), but both are incredibly powerful and we don&apos;t really have too many other strong alternatives anyway. Both armour and evasion flasks won&apos;t actually scale your max phys hits (due to Imbalanced Guard, there is an upper limit on how much damage armour can mitigate).
+
+# Jewels
+
+* A Glorious Vanity with Immortal Ambition is important, the seed doesn&apos;t matter but you could shop around for one with increased life or suppress small nodes. You can slot it either near Divine Shield or Arsenal of Vengeance.
+* Stormshroud with the flask gives ailment immunity - important for ignite immunity.
+* Vitality Sublime Vision is really strong.
+* Golden Rule is needed to enable self poison.
+* Foulborn Red Nightmare is needed to convert all fire to chaos. Use tattoos nearby for the remaining conversion.
+* I run a Very Large Thread of Hope to grab some life and flask nodes near Ranger start.
+* A large 8p chaos cluster with some decent notables is nice, but no mandatory ones. If you have Touch of Cruelty, you&apos;ll want a source of hinder (a single tattoo for hinder on hit is enough). The chaos corpse explosions from Unspeakable Gifts are really strong, since its damage gets scaled up by your wither.
+* A flask cluster with Spiked Concoction for Alchemists Genius is helpful to sustain flasks.
+
+# Pantheon
+
+* Soul of Abberath is very important for burning ground immunity, since we have 0 fire res.
+* If you know the content you&apos;re running does not have burning ground, you could replace it with Soul of Gruthkul.
+* Soul of Lunaris is the best major pantheon.
+
+# Runegrafts:
+
+* Runegraft of the Warp is important, to make the self poisons you inflict on yourself drop faster. Makes you significantly less likely to fall over to reflected self poisons.
+* Runegraft of Time is basically free 20% more damage.
+
+# Playstyle
+
+* At the start of the map, activate your flasks and simply hold down portal. That&apos;s it.
+* Be careful of holding portal too long if there are no nearby enemies, since you&apos;ll fall over to self damage.
+* Use a manual dodge skill to escape big phys and fire hits.
+* For breach hives and other standing still content, it might be better to unsocket Lightning Warp to not zoom everywhere.
+
+# Build Weaknesses
+
+* This build&apos;s kryptonite is big fire hits. In particular, phys as extra fire is an extremely deadly mod.
+* Since armour gets weaker against bigger hits, phys as extra fire makes us take a gigantic physical hit since the fire is taken as phys.
+* Our fire max hit will always be equal to our phys max hit. 15k phys max hit is moderate but not great, but 15k max fire hit is deadly.
+* Our phys/fire max hit will also always be at most double our life pool (assuming enough armour). With Imbalanced Guard, the max damage we can mitigate is 50%, so even if we have a million armour to mitigate a gigantic phys hit, we still take at least 50% of the damage. This is also why scaling max life is so important. The only way to increase this without bricking the Cwdt loop is Progenesis.
+* Fire DOTs are also a problem if they are in a place where you don&apos;t have any nearby enemies to self poison from.
+
+# Pitfalls to Avoid and General FAQ
+
+* Do not run either of Deadly or Unbound Ailments. Deadly Ailments reduces your hit damage making your leeches shorter, and Unbound Ailments makes the reflected self poisons longer.
+* You should only very rarely be dying to reflected self poisons. If you find yourself constantly dying to this, its something important you&apos;ve missed and is a fixable issue. Make sure you don&apos;t run no leech maps and have good uptime for Atziri&apos;s Promise.
+* Avoid phys as extra fire maps.
+* Make sure you have burning ground immunity from pantheon and ignite immunity with Stormshroud.
+* Make sure you have perfect uptime on your Topaz/Sapphire flasks.
+* Be careful of holding down Portal too long after a pack or during a boss immunity phase, or you&apos;ll die to self damage.
+* It&apos;s sometimes worth tapping Portal right after a pack, it gives you a short leech from the self damage and gives a bit of leeway till your self poisons drop.
+* Tap Portal once or twice outside combat if you need healing, it&apos;ll trigger the Vitality Sublime Vision.
+
+# Conclusion
+
+This is a build, which under normal circumstances, should not exist. And yet - here we are. It is janky, it is clunky, it is complex, but this is what Path of Exile is all about. The developers certainly never imagined you could turn Portal into a main skill, but that&apos;s the beauty of the game. The sheer possibilities, all enabled by a simple innocous (and unintended) interaction, leads to this build. It was a thoroughly enjoyable puzzle to crack, with still more optimizations to be made. If you want to play a build that exists in sheer defiance of how the game is intended to be played, this is the build for you.
+	</Notes>
+</PathOfBuilding>
